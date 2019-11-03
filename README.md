@@ -1,2 +1,2 @@
-# tulita
-Tulita offers tools for everyday life.
+# Tulita
+Tools for everyday life.
